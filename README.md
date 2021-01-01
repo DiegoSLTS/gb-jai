@@ -20,15 +20,15 @@ This is a Jai port of my GameBoy emulator, originally written in C++ (https://gi
 
 ## Instrucciones / Instructions
 
-1 - Abrir una terminal/consola en el directorio raíz de este repositorio
-2 - Ejecutar el comando "jai .\first.jai". El ejecutable (gb-emulator.exe) será generado en <raiz>\builds\
-3 - Copiar SDL2.dll en <raiz>\builds\
+1. Abrir una terminal/consola en el directorio raíz de este repositorio
+2. Ejecutar el comando "jai .\first.jai". El ejecutable (gb-emulator.exe) será generado en <raiz>\builds\
+3. Copiar SDL2.dll en <raiz>\builds\
 
 ----
 
-1 - Open a terminal/console at the root of this repository
-2 - Run the command "jai .\first.jai". The executable (gb-emulator.exe) will be created at <root>\builds\
-3 - Copy SDL2.dll to <raiz>\builds\
+1. Open a terminal/console at the root of this repository
+2. Run the command "jai .\first.jai". The executable (gb-emulator.exe) will be created at <root>\builds\
+3. Copy SDL2.dll to <raiz>\builds\
 
 ## Uso / Usage
 
@@ -116,4 +116,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Thanks to everyone that compiled and found all the information available about the GameBoy
 * Thanks to the BGB team for making a great GB emulator with really usefull debug tools
-* Thanks to Thekla. Inc for giving me access to the Jai's beta
+* Thanks to Thekla. Inc for giving me access to Jai's beta
